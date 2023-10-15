@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/sun/Documents/Course/ESE615/Project/src/opponent_predictor/include -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/opponent_predictor_node.dir/src/opponent_predictor_node.cpp.o -c /home/sun/Documents/Course/ESE615/Project/src/opponent_predictor/src/opponent_predictor_node.cpp",
+  "file": "/home/sun/Documents/Course/ESE615/Project/src/opponent_predictor/src/opponent_predictor_node.cpp"
+}
+]

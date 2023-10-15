@@ -1,0 +1,4 @@
+source;share/opponent_predictor/local_setup.bash
+source;share/opponent_predictor/local_setup.dsv
+source;share/opponent_predictor/local_setup.sh
+source;share/opponent_predictor/local_setup.zsh

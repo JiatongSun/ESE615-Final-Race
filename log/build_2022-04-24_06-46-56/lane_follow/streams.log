@@ -1,0 +1,54 @@
+[0.026s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/lane_follow': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/lane_follow -- -j8 -l8
+[0.046s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.065s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.242s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.248s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.273s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.275s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.364s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.401s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.402s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.512s] -- Found rclpy: 1.0.8 (/opt/ros/foxy/share/rclpy/cmake)
+[0.513s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.538s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[0.593s] -- Found ackermann_msgs: 2.0.2 (/opt/ros/foxy/share/ackermann_msgs/cmake)
+[0.619s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[0.674s] -- Found visualization_msgs: 2.0.5 (/opt/ros/foxy/share/visualization_msgs/cmake)
+[0.729s] -- Found tf2_ros: 0.13.13 (/opt/ros/foxy/share/tf2_ros/cmake)
+[0.986s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.077s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.080s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.080s] -- Added test 'lint_cmake' to check CMake code style
+[1.080s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.082s] -- Added test 'xmllint' to check XML markup files
+[1.084s] -- Configuring done
+[1.086s] -- Generating done
+[1.087s] -- Build files have been written to: /home/sun/Documents/Course/ESE615/Project/build/lane_follow
+[1.106s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/lane_follow' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/lane_follow -- -j8 -l8
+[1.123s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/lane_follow': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/lane_follow
+[1.134s] -- Install configuration: ""
+[1.134s] -- Execute custom install script
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/environment/pythonpath.sh
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/environment/pythonpath.dsv
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/lib/python3.8/site-packages/lane_follow/__init__.py
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/lib/lane_follow/lane_follow_node.py
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/lib/lane_follow/lane_visualize.py
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/launch/lane_follow_launch.py
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/ament_index/resource_index/package_run_dependencies/lane_follow
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/ament_index/resource_index/parent_prefix_path/lane_follow
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/environment/ament_prefix_path.sh
+[1.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/environment/ament_prefix_path.dsv
+[1.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/environment/path.sh
+[1.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/environment/path.dsv
+[1.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/local_setup.bash
+[1.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/local_setup.sh
+[1.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/local_setup.zsh
+[1.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/local_setup.dsv
+[1.135s] -- Symlinking: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/package.dsv
+[1.140s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/ament_index/resource_index/packages/lane_follow
+[1.141s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/cmake/lane_followConfig.cmake
+[1.141s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/cmake/lane_followConfig-version.cmake
+[1.141s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/lane_follow/share/lane_follow/package.xml
+[1.166s] Listing '/home/sun/Documents/Course/ESE615/Project/install/lane_follow/lib/python3.8/site-packages/lane_follow'...
+[1.166s] Compiling '/home/sun/Documents/Course/ESE615/Project/install/lane_follow/lib/python3.8/site-packages/lane_follow/__init__.py'...
+[1.172s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/lane_follow' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/lane_follow

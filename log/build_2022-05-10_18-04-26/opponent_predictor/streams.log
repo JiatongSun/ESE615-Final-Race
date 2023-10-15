@@ -1,0 +1,29 @@
+[0.026s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/opponent_predictor -- -j8 -l8
+[0.069s] [100%] Built target opponent_predictor_node
+[0.085s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/opponent_predictor -- -j8 -l8
+[0.111s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/opponent_predictor
+[0.121s] -- Install configuration: ""
+[0.121s] -- Execute custom install script
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/lib/opponent_predictor/opponent_predictor_node
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/environment/pythonpath.sh
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/environment/pythonpath.dsv
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/lib/python3.8/site-packages/opponent_predictor/__init__.py
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/lib/opponent_predictor/opponent_predictor_node.py
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/launch/opponent_predictor_launch.py
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/ament_index/resource_index/package_run_dependencies/opponent_predictor
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/ament_index/resource_index/parent_prefix_path/opponent_predictor
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/environment/ament_prefix_path.sh
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/environment/ament_prefix_path.dsv
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/environment/path.sh
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/environment/path.dsv
+[0.121s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/local_setup.bash
+[0.122s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/local_setup.sh
+[0.122s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/local_setup.zsh
+[0.123s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/local_setup.dsv
+[0.124s] -- Symlinking: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/package.dsv
+[0.132s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/ament_index/resource_index/packages/opponent_predictor
+[0.132s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/cmake/opponent_predictorConfig.cmake
+[0.132s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/cmake/opponent_predictorConfig-version.cmake
+[0.132s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/share/opponent_predictor/package.xml
+[0.157s] Listing '/home/sun/Documents/Course/ESE615/Project/install/opponent_predictor/lib/python3.8/site-packages/opponent_predictor'...
+[0.163s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/opponent_predictor

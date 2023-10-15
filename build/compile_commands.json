@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/sun/Documents/Course/ESE615/Project/build/mpc",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/sun/Documents/Course/ESE615/Project/src/mpc/include -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/mpc_node.dir/src/mpc_node.cpp.o -c /home/sun/Documents/Course/ESE615/Project/src/mpc/src/mpc_node.cpp",
+  "file": "/home/sun/Documents/Course/ESE615/Project/src/mpc/src/mpc_node.cpp"
+},
+
+{
+  "directory": "/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/sun/Documents/Course/ESE615/Project/src/opponent_predictor/include -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/opponent_predictor_node.dir/src/opponent_predictor_node.cpp.o -c /home/sun/Documents/Course/ESE615/Project/src/opponent_predictor/src/opponent_predictor_node.cpp",
+  "file": "/home/sun/Documents/Course/ESE615/Project/src/opponent_predictor/src/opponent_predictor_node.cpp"
+},
+
+{
+  "directory": "/home/sun/Documents/Course/ESE615/Project/build/pure_pursuit",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/sun/Documents/Course/ESE615/Project/src/pure_pursuit/include -I/usr/include/eigen3 -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/pure_pursuit_node.dir/src/pure_pursuit_node.cpp.o -c /home/sun/Documents/Course/ESE615/Project/src/pure_pursuit/src/pure_pursuit_node.cpp",
+  "file": "/home/sun/Documents/Course/ESE615/Project/src/pure_pursuit/src/pure_pursuit_node.cpp"
+}
+]

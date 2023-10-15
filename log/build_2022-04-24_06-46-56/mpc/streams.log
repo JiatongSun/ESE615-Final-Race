@@ -1,0 +1,30 @@
+[0.023s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/mpc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/mpc -- -j8 -l8
+[0.080s] [100%] Built target mpc_node
+[0.093s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/mpc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/mpc -- -j8 -l8
+[0.112s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/mpc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/mpc
+[0.128s] -- Install configuration: ""
+[0.129s] -- Execute custom install script
+[0.129s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/lib/mpc/mpc_node
+[0.129s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/environment/pythonpath.sh
+[0.129s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/environment/pythonpath.dsv
+[0.129s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/lib/python3.8/site-packages/mpc/__init__.py
+[0.130s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/lib/python3.8/site-packages/mpc/mpc_class.py
+[0.130s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/lib/mpc/mpc_node.py
+[0.131s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/ament_index/resource_index/package_run_dependencies/mpc
+[0.131s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/ament_index/resource_index/parent_prefix_path/mpc
+[0.132s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/environment/ament_prefix_path.sh
+[0.132s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/environment/ament_prefix_path.dsv
+[0.133s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/environment/path.sh
+[0.133s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/environment/path.dsv
+[0.133s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/local_setup.bash
+[0.133s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/local_setup.sh
+[0.133s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/local_setup.zsh
+[0.133s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/local_setup.dsv
+[0.134s] -- Symlinking: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/package.dsv
+[0.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/ament_index/resource_index/packages/mpc
+[0.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/cmake/mpcConfig.cmake
+[0.134s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/cmake/mpcConfig-version.cmake
+[0.135s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/mpc/share/mpc/package.xml
+[0.161s] Listing '/home/sun/Documents/Course/ESE615/Project/install/mpc/lib/python3.8/site-packages/mpc'...
+[0.161s] Compiling '/home/sun/Documents/Course/ESE615/Project/install/mpc/lib/python3.8/site-packages/mpc/mpc_class.py'...
+[0.168s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/mpc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/mpc

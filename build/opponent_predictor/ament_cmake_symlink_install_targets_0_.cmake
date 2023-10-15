@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/sun/Documents/Course/ESE615/Project/build/opponent_predictor/opponent_predictor_node" "TARGETS" "opponent_predictor_node" "DESTINATION" "lib/opponent_predictor")

@@ -1,0 +1,9 @@
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/install/strip.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/install.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/list_install_components.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/rebuild_cache.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/edit_cache.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/test.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/install/local.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/dummy_car_uninstall.dir
+/home/sun/Documents/Course/ESE615/Project/build/dummy_car/CMakeFiles/uninstall.dir

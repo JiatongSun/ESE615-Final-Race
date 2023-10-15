@@ -1,0 +1,11 @@
+source;share/opponent_predictor/hook/cmake_prefix_path.ps1
+source;share/opponent_predictor/hook/cmake_prefix_path.dsv
+source;share/opponent_predictor/hook/cmake_prefix_path.sh
+source;share/opponent_predictor/hook/pythonpath.ps1
+source;share/opponent_predictor/hook/pythonpath.dsv
+source;share/opponent_predictor/hook/pythonpath.sh
+source;share/opponent_predictor/local_setup.bash
+source;share/opponent_predictor/local_setup.dsv
+source;share/opponent_predictor/local_setup.ps1
+source;share/opponent_predictor/local_setup.sh
+source;share/opponent_predictor/local_setup.zsh

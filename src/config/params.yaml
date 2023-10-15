@@ -1,0 +1,18 @@
+map_name: 'skir_3_draw'
+map_img_ext: '.pgm'
+
+real_test: False
+
+max_speed: 8.0
+min_speed: 2.5
+
+clockwise: False
+
+use_lanes: True
+num_lanes: 2
+lane_index: 0  # lane index for trajectory optimizer
+lane_files:
+  - "skir_3_draw_lane_0_traj_race_cl"
+  - "skir_3_draw_lane_1_traj_race_cl"
+
+dummy_car_file: "skir_3_draw_lane_0_traj_race_cl"

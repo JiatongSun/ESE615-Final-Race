@@ -1,0 +1,55 @@
+[0.029s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/dummy_car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/sun/Documents/Course/ESE615/Project/src/dummy_car -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sun/Documents/Course/ESE615/Project/install/dummy_car
+[0.056s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.078s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.264s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.279s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.314s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.319s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.429s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.468s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.470s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.588s] -- Found rclpy: 1.0.8 (/opt/ros/foxy/share/rclpy/cmake)
+[0.589s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.618s] -- Found nav_msgs: 2.0.5 (/opt/ros/foxy/share/nav_msgs/cmake)
+[0.676s] -- Found ackermann_msgs: 2.0.2 (/opt/ros/foxy/share/ackermann_msgs/cmake)
+[0.705s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[0.764s] -- Found visualization_msgs: 2.0.5 (/opt/ros/foxy/share/visualization_msgs/cmake)
+[0.824s] -- Found tf2_ros: 0.13.13 (/opt/ros/foxy/share/tf2_ros/cmake)
+[1.115s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.211s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.213s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.214s] -- Added test 'lint_cmake' to check CMake code style
+[1.214s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.216s] -- Added test 'xmllint' to check XML markup files
+[1.218s] -- Configuring done
+[1.222s] -- Generating done
+[1.223s] -- Build files have been written to: /home/sun/Documents/Course/ESE615/Project/build/dummy_car
+[1.232s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/dummy_car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/sun/Documents/Course/ESE615/Project/src/dummy_car -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sun/Documents/Course/ESE615/Project/install/dummy_car
+[1.234s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/dummy_car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/dummy_car -- -j8 -l8
+[1.268s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/dummy_car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/sun/Documents/Course/ESE615/Project/build/dummy_car -- -j8 -l8
+[1.283s] Invoking command in '/home/sun/Documents/Course/ESE615/Project/build/dummy_car': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/dummy_car
+[1.291s] -- Install configuration: ""
+[1.291s] -- Execute custom install script
+[1.291s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/pythonpath.sh
+[1.291s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/pythonpath.dsv
+[1.292s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/python3.8/site-packages/dummy_car/__init__.py
+[1.292s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/dummy_car/dummy_car_node.py
+[1.293s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/launch/dummy_car_launch.py
+[1.293s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/ament_index/resource_index/package_run_dependencies/dummy_car
+[1.293s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/ament_index/resource_index/parent_prefix_path/dummy_car
+[1.293s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/ament_prefix_path.sh
+[1.293s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/ament_prefix_path.dsv
+[1.294s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/path.sh
+[1.294s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/path.dsv
+[1.294s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.bash
+[1.294s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.sh
+[1.294s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.zsh
+[1.294s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.dsv
+[1.295s] -- Symlinking: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/package.dsv
+[1.303s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/ament_index/resource_index/packages/dummy_car
+[1.304s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/cmake/dummy_carConfig.cmake
+[1.304s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/cmake/dummy_carConfig-version.cmake
+[1.304s] -- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/package.xml
+[1.332s] Listing '/home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/python3.8/site-packages/dummy_car'...
+[1.332s] Compiling '/home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/python3.8/site-packages/dummy_car/__init__.py'...
+[1.338s] Invoked command in '/home/sun/Documents/Course/ESE615/Project/build/dummy_car' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/sun/Documents/Course/ESE615/Project/build/dummy_car

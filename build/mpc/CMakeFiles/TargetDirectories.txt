@@ -1,0 +1,10 @@
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/install/local.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/install.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/list_install_components.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/rebuild_cache.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/edit_cache.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/test.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/install/strip.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/mpc_node.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/mpc_uninstall.dir
+/home/sun/Documents/Course/ESE615/Project/build/mpc/CMakeFiles/uninstall.dir

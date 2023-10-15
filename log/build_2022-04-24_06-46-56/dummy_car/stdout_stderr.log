@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/pythonpath.sh
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/pythonpath.dsv
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/python3.8/site-packages/dummy_car/__init__.py
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/dummy_car/dummy_car_node.py
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/launch/dummy_car_launch.py
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/ament_index/resource_index/package_run_dependencies/dummy_car
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/ament_index/resource_index/parent_prefix_path/dummy_car
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/path.sh
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/environment/path.dsv
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.bash
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.sh
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.zsh
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/local_setup.dsv
+-- Symlinking: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/package.dsv
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/ament_index/resource_index/packages/dummy_car
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/cmake/dummy_carConfig.cmake
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/cmake/dummy_carConfig-version.cmake
+-- Up-to-date symlink: /home/sun/Documents/Course/ESE615/Project/install/dummy_car/share/dummy_car/package.xml
+Listing '/home/sun/Documents/Course/ESE615/Project/install/dummy_car/lib/python3.8/site-packages/dummy_car'...
